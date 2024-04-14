@@ -37,7 +37,7 @@ I'm a software engineer in Taiwan. I'm interested in lots of subject including d
 |        | Kubernetes     |       |                               |    |           |
 
 
-## Gimy - Clone (Side Projects)
+## Gimy Clone ( Side Project )
 ![home_page.png](assets/home_page.png)
 
 ![architecture.png](assets/system_architecture.png)
@@ -49,7 +49,19 @@ Project Repository : </br>
 https://github.com/weiawesome/gimy_clone_website </br>
 https://github.com/weiawesome/gimy_clone_api
 
+## Study Savvy ( Side Project )
 
+![study-savvy.png](assets/study-savvy.png)
+
+![architecture.png](assets/study-savvy-architecture.png)
+
+[In Frontend](https://github.com/weiawesome/study_savvy_app) : User can upload the audio file in class or graph file for article then AI will summarize and correct the content.</br>
+[In Backend](https://github.com/weiawesome/study_savvy_api_go) : It can gain the query and using event-driven method to do some AI processing including ASR, OCR and NLP then return the result for prediction.
+
+Project Repository : </br>
+https://github.com/weiawesome/study_savvy_app </br>
+https://github.com/weiawesome/study_savvy_api_go </br>
+https://github.com/weiawesome/study_savvy_asyncwork_celery
 
 ### Contact Me 😎
 Name : 童俊維 ( Chun-Wei, Tung ) ( Tcweeei )<br/>
