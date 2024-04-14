@@ -63,7 +63,7 @@ I'm a software engineer in Taiwan. I'm interested in lots of subject including d
 [//]: # (|        | Kubernetes     |       |                               |    |           |)
 
 
-### Side Project - Gimy Clone 🤓🤓 
+### Side Project - Gimy Clone 🎬🎬
 ![home_page.png](assets/home_page.png)
 
 ![architecture.png](assets/system_architecture.png)
