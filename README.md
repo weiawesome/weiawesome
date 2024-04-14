@@ -27,7 +27,7 @@ I'm a software engineer in Taiwan. I'm interested in lots of subject including d
 |          | ❌   | ✔️     | Key-Value      | Redis                |
 |          | ❌   | ✔️     | Document-Based | Mongodb              |
 |          | ❌   | ✔️     | Object-Storage | MinIO                |
-|          | ❌   | ✔️     | Vector-Based   | chroma               |
+|          | ❌   | ✔️     | Vector-Based   | Chroma               |
 
 
 | Devops | Skill          | Cloud | Skill                         | AI | framework | 
@@ -42,8 +42,7 @@ I'm a software engineer in Taiwan. I'm interested in lots of subject including d
 
 ![architecture.png](assets/system_architecture.png)
 
-[In Frontend](https://github.com/weiawesome/gimy_clone_api) : User can upload the video in website and view it by http-live-streaming.
-
+[In Frontend](https://github.com/weiawesome/gimy_clone_api) : User can upload the video in website and view it by http-live-streaming.</br>
 [In Backend](https://github.com/weiawesome/gimy_clone_api) : It can convert and save the media and return the value when query happened.
 
 Project Repository : </br>
