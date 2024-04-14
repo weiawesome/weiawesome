@@ -1,43 +1,69 @@
-## Who am I ? 🤔
+### Who am I ? 🤔
 Hello 👋👋 My name is 童俊維 ( Tcweeei ).
 
 I'm a software engineer in Taiwan. I'm interested in lots of subject including devops, front-end, back-end, AI etc.
 
-## How can I do ? 😁
+[//]: # (## How can I do ? 😁)
 
-| Front-end | WebSite | App | Language                | FrameWork    | 
-|-----------|---------|-----|-------------------------|--------------|
-|           | ✔️      | ❌   | JavaScript / TypeScript | React.js     |
-|           | ✔️      | ❌   | JavaScript / TypeScript | Next.js      |
-|           | ❌       | ✔️  | JavaScript / TypeScript | React-Native |
-|           | ❌       | ✔️  | Dart                    | Flutter      |
+[//]: # ()
+[//]: # (| Front-end | WebSite | App | Language                | FrameWork    | )
 
-| Back-end | Language | FrameWork | Back-end | Protocol  | 
-|----------|----------|-----------|----------|-----------|
-|          | Golang   | Gin       |          | Http      |
-|          | Python   | Flask     |          | gRPC      |
-|          | Python   | Fast-API  |          | WebSocket |
+[//]: # (|-----------|---------|-----|-------------------------|--------------|)
 
-| Database | SQL | No-SQL | Type           | Name                 |
-|----------|-----|--------|----------------|----------------------|
-|          | ✔️  | ❌      | Relation       | Microsoft SQL Server |
-|          | ✔️  | ❌      | Relation       | MySQL                |
-|          | ✔️  | ❌      | Relation       | PostgreSQL           |
-|          | ❌   | ✔️     | Time-Series    | Influxdb             |
-|          | ❌   | ✔️     | Key-Value      | Redis                |
-|          | ❌   | ✔️     | Document-Based | Mongodb              |
-|          | ❌   | ✔️     | Object-Storage | MinIO                |
-|          | ❌   | ✔️     | Vector-Based   | Chroma               |
+[//]: # (|           | ✔️      | ❌   | JavaScript / TypeScript | React.js     |)
+
+[//]: # (|           | ✔️      | ❌   | JavaScript / TypeScript | Next.js      |)
+
+[//]: # (|           | ❌       | ✔️  | JavaScript / TypeScript | React-Native |)
+
+[//]: # (|           | ❌       | ✔️  | Dart                    | Flutter      |)
+
+[//]: # ()
+[//]: # (| Back-end | Language | FrameWork | Back-end | Protocol  | )
+
+[//]: # (|----------|----------|-----------|----------|-----------|)
+
+[//]: # (|          | Golang   | Gin       |          | Http      |)
+
+[//]: # (|          | Python   | Flask     |          | gRPC      |)
+
+[//]: # (|          | Python   | Fast-API  |          | WebSocket |)
+
+[//]: # ()
+[//]: # (| Database | SQL | No-SQL | Type           | Name                 |)
+
+[//]: # (|----------|-----|--------|----------------|----------------------|)
+
+[//]: # (|          | ✔️  | ❌      | Relation       | Microsoft SQL Server |)
+
+[//]: # (|          | ✔️  | ❌      | Relation       | MySQL                |)
+
+[//]: # (|          | ✔️  | ❌      | Relation       | PostgreSQL           |)
+
+[//]: # (|          | ❌   | ✔️     | Time-Series    | Influxdb             |)
+
+[//]: # (|          | ❌   | ✔️     | Key-Value      | Redis                |)
+
+[//]: # (|          | ❌   | ✔️     | Document-Based | Mongodb              |)
+
+[//]: # (|          | ❌   | ✔️     | Object-Storage | MinIO                |)
+
+[//]: # (|          | ❌   | ✔️     | Vector-Based   | Chroma               |)
+
+[//]: # ()
+[//]: # ()
+[//]: # (| Devops | Skill          | Cloud | Skill                         | AI | framework | )
+
+[//]: # (|--------|----------------|-------|-------------------------------|----|-----------|)
+
+[//]: # (|        | Docker         |       | Render                        |    | Pytorch   |)
+
+[//]: # (|        | Docker-Compose |       | Google Cloud Platform &#40; GCP &#41; |    |           |)
+
+[//]: # (|        | Kubernetes     |       |                               |    |           |)
 
 
-| Devops | Skill          | Cloud | Skill                         | AI | framework | 
-|--------|----------------|-------|-------------------------------|----|-----------|
-|        | Docker         |       | Render                        |    | Pytorch   |
-|        | Docker-Compose |       | Google Cloud Platform ( GCP ) |    |           |
-|        | Kubernetes     |       |                               |    |           |
-
-
-## Gimy Clone ( Side Project )
+### Side Project - Gimy Clone 🤓🤓 
 ![home_page.png](assets/home_page.png)
 
 ![architecture.png](assets/system_architecture.png)
@@ -49,7 +75,7 @@ Project Repository : </br>
 https://github.com/weiawesome/gimy_clone_website </br>
 https://github.com/weiawesome/gimy_clone_api
 
-## Study Savvy ( Side Project )
+### Side Project - Study Savvy 👻👻
 
 ![study-savvy.png](assets/study-savvy.png)
 
