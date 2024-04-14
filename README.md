@@ -1,45 +1,55 @@
-### Who am I ? 🤔
+## Who am I ? 🤔
 Hello 👋👋 My name is 童俊維 ( Tcweeei ).
 
 I'm a software engineer in Taiwan. I'm interested in lots of subject including devops, front-end, back-end, AI etc.
 
-### How can I do ? 😁
-#### Front-end
-- WebSite
-  - [x] React.js
-  - [x] Next.js
-- App
-  - [x] React-Native
-  - [x] Flutter
-  - [x] Kotlin
-#### Back-end
-- Protocol
-  - [x] restful api
-  - [x] grpc
-- framework
-  - [x] golang / gin
-  - [x] python / flask
-  - [x] python / fast-api
-#### Database
-- SQL
-  - [x] Microsoft SQL Server
-  - [x] MySQL
-  - [x] PostgreSQL
-- Time Series
-  - [x] InfluxDb
-- Key-Value
-  - [x] Redis
-- Document
-  - [x] Mongodb
-- Vector-Based
-  - [x] Chroma
-- Object Storage
-  - [x] MinIO
-#### Devops
-- [x] Cloud
-- [x] AI
+## How can I do ? 😁
 
-### (Side Projects) Full-Stack-Stream-Media-Website
+| Front-end | WebSite | App | Language                | FrameWork    | 
+|-----------|---------|-----|-------------------------|--------------|
+|           | ✔️      | ❌   | JavaScript / TypeScript | React.js     |
+|           | ✔️      | ❌   | JavaScript / TypeScript | Next.js      |
+|           | ❌       | ✔️  | JavaScript / TypeScript | React-Native |
+|           | ❌       | ✔️  | Dart                    | Flutter      |
+
+| Back-end | Language | FrameWork | Back-end | Protocol  | 
+|----------|----------|-----------|----------|-----------|
+|          | Golang   | Gin       |          | Http      |
+|          | Python   | Flask     |          | gRPC      |
+|          | Python   | Fast-API  |          | WebSocket |
+
+| Database | SQL | No-SQL | Type           | Name                 |
+|----------|-----|--------|----------------|----------------------|
+|          | ✔️  | ❌      | Relation       | Microsoft SQL Server |
+|          | ✔️  | ❌      | Relation       | MySQL                |
+|          | ✔️  | ❌      | Relation       | PostgreSQL           |
+|          | ❌   | ✔️     | Time-Series    | Influxdb             |
+|          | ❌   | ✔️     | Key-Value      | Redis                |
+|          | ❌   | ✔️     | Document-Based | Mongodb              |
+|          | ❌   | ✔️     | Object-Storage | MinIO                |
+|          | ❌   | ✔️     | Vector-Based   | chroma               |
+
+
+| Devops | Skill          | Cloud | Skill                         | AI | framework | 
+|--------|----------------|-------|-------------------------------|----|-----------|
+|        | Docker         |       | Render                        |    | Pytorch   |
+|        | Docker-Compose |       | Google Cloud Platform ( GCP ) |    |           |
+|        | Kubernetes     |       |                               |    |           |
+
+
+## Gimy - Clone (Side Projects)
+![home_page.png](assets/home_page.png)
+
+![architecture.png](assets/system_architecture.png)
+
+[In Frontend](https://github.com/weiawesome/gimy_clone_api) : User can upload the video in website and view it by http-live-streaming.
+
+[In Backend](https://github.com/weiawesome/gimy_clone_api) : It can convert and save the media and return the value when query happened.
+
+Project Repository : </br>
+https://github.com/weiawesome/gimy_clone_website </br>
+https://github.com/weiawesome/gimy_clone_api
+
 
 
 ### Contact Me 😎
