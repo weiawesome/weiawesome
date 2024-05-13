@@ -97,6 +97,17 @@ https://github.com/weiawesome/block_chain_simulation </br>
 
 Website URL : https://block-chain-simulation.onrender.com
 
+### Side Project - Avec Moi With Us  🎞️🎞️
+![](assets/authentication_plus.png)
+![](assets/primary_feature_plus.png)
+
+[In Frontend](https://github.com/weiawesome/avec_moi_with_us_app) : User can find, get information and save the movies they like.</br>
+[In Backend](https://github.com/weiawesome/avec_moi_with_us_api) : It can reply the request from frontend
+
+Project Repository : </br>
+https://github.com/weiawesome/avec_moi_with_us_app </br>
+https://github.com/weiawesome/avec_moi_with_us_api </br>
+
 ### Contact Me 😎
 Name : 童俊維 ( Chun-Wei, Tung ) ( Tcweeei )<br/>
 Email : open891013@gmail.com <br/>
