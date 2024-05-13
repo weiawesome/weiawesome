@@ -89,6 +89,14 @@ https://github.com/weiawesome/study_savvy_app </br>
 https://github.com/weiawesome/study_savvy_api_go </br>
 https://github.com/weiawesome/study_savvy_asyncwork_celery
 
+### Side Project - BlockChain Simulation Website 🔗🔗
+![block_chain_simulation.png](assets/block_chain_simulation.png)
+
+Project Repository : </br>
+https://github.com/weiawesome/block_chain_simulation </br>
+
+Website URL : https://block-chain-simulation.onrender.com
+
 ### Contact Me 😎
 Name : 童俊維 ( Chun-Wei, Tung ) ( Tcweeei )<br/>
 Email : open891013@gmail.com <br/>
