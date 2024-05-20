@@ -3,6 +3,11 @@ Hello 👋👋 My name is 童俊維 ( Tcweeei ).
 
 I'm a software engineer in Taiwan. I'm interested in lots of subject including devops, front-end, back-end, AI etc.
 
+### Contact Me 😎
+Name : 童俊維 ( Chun-Wei, Tung ) ( Tcweeei )<br/>
+Email : open891013@gmail.com <br/>
+ITHome : https://ithelp.ithome.com.tw/users/20162912/profile
+
 [//]: # (## How can I do ? 😁)
 
 [//]: # ()
@@ -107,11 +112,6 @@ Website URL : https://block-chain-simulation.onrender.com
 Project Repository : </br>
 https://github.com/weiawesome/avec_moi_with_us_app </br>
 https://github.com/weiawesome/avec_moi_with_us_api </br>
-
-### Contact Me 😎
-Name : 童俊維 ( Chun-Wei, Tung ) ( Tcweeei )<br/>
-Email : open891013@gmail.com <br/>
-ITHome : https://ithelp.ithome.com.tw/users/20162912/profile
 
 
 
