@@ -69,7 +69,7 @@ ITHome : https://ithelp.ithome.com.tw/users/20162912/profile
 
 
 ### Side Project - Gimy Clone 🎬🎬
-![home_page.png](assets/home_page.png)
+![home_page.png](assets/full_home_page.png)
 
 ![architecture.png](assets/system_architecture.png)
 
