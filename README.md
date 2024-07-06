@@ -8,7 +8,12 @@ Name : 童俊維 ( Chun-Wei, Tung ) ( Tcweeei )<br/>
 Email : open891013@gmail.com <br/>
 ITHome : https://ithelp.ithome.com.tw/users/20162912/profile
 
-[//]: # (## How can I do ? 😁)
+### Top Language
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiawesome&langs_count=6&hide=Jupyter%20Notebook&show_icons=true&theme=tokyonight)
+
+[//]: # (![蛇動畫]&#40;https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg&#41;)
+
+[//]: # ([//]: # &#40;## How can I do ? 😁&#41;)
 
 [//]: # ()
 [//]: # (| Front-end | WebSite | App | Language                | FrameWork    | )
