@@ -1,76 +1,13 @@
 ### Who am I ? 🤔
-Hello 👋👋 My name is 童俊維 ( Tcweeei ).
+Hello 👋👋 My name is 童俊維 ( Wes ) ( Tcweeei ).
 
 I'm a software engineer in Taiwan. I'm interested in lots of subject including devops, front-end, back-end, AI etc.
 
 ### Contact Me 😎
-Name : 童俊維 ( Chun-Wei, Tung ) ( Tcweeei )<br/>
 Email : open891013@gmail.com <br/>
-ITHome : https://ithelp.ithome.com.tw/users/20162912/profile
-
-### Top Language
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiawesome&langs_count=6&hide=Jupyter%20Notebook&show_icons=true&theme=tokyonight)
-
-[//]: # (![蛇動畫]&#40;https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg&#41;)
-
-[//]: # ([//]: # &#40;## How can I do ? 😁&#41;)
-
-[//]: # ()
-[//]: # (| Front-end | WebSite | App | Language                | FrameWork    | )
-
-[//]: # (|-----------|---------|-----|-------------------------|--------------|)
-
-[//]: # (|           | ✔️      | ❌   | JavaScript / TypeScript | React.js     |)
-
-[//]: # (|           | ✔️      | ❌   | JavaScript / TypeScript | Next.js      |)
-
-[//]: # (|           | ❌       | ✔️  | JavaScript / TypeScript | React-Native |)
-
-[//]: # (|           | ❌       | ✔️  | Dart                    | Flutter      |)
-
-[//]: # ()
-[//]: # (| Back-end | Language | FrameWork | Back-end | Protocol  | )
-
-[//]: # (|----------|----------|-----------|----------|-----------|)
-
-[//]: # (|          | Golang   | Gin       |          | Http      |)
-
-[//]: # (|          | Python   | Flask     |          | gRPC      |)
-
-[//]: # (|          | Python   | Fast-API  |          | WebSocket |)
-
-[//]: # ()
-[//]: # (| Database | SQL | No-SQL | Type           | Name                 |)
-
-[//]: # (|----------|-----|--------|----------------|----------------------|)
-
-[//]: # (|          | ✔️  | ❌      | Relation       | Microsoft SQL Server |)
-
-[//]: # (|          | ✔️  | ❌      | Relation       | MySQL                |)
-
-[//]: # (|          | ✔️  | ❌      | Relation       | PostgreSQL           |)
-
-[//]: # (|          | ❌   | ✔️     | Time-Series    | Influxdb             |)
-
-[//]: # (|          | ❌   | ✔️     | Key-Value      | Redis                |)
-
-[//]: # (|          | ❌   | ✔️     | Document-Based | Mongodb              |)
-
-[//]: # (|          | ❌   | ✔️     | Object-Storage | MinIO                |)
-
-[//]: # (|          | ❌   | ✔️     | Vector-Based   | Chroma               |)
-
-[//]: # ()
-[//]: # ()
-[//]: # (| Devops | Skill          | Cloud | Skill                         | AI | framework | )
-
-[//]: # (|--------|----------------|-------|-------------------------------|----|-----------|)
-
-[//]: # (|        | Docker         |       | Render                        |    | Pytorch   |)
-
-[//]: # (|        | Docker-Compose |       | Google Cloud Platform &#40; GCP &#41; |    |           |)
-
-[//]: # (|        | Kubernetes     |       |                               |    |           |)
+LinkedIn: https://www.linkedin.com/in/wes-tung-6481b6267/ <br/>
+Credly: https://www.credly.com/users/wes <br/>
+ITHome : https://ithelp.ithome.com.tw/users/20162912/profile <br/>
 
 
 ### Side Project - Gimy Clone 🎬🎬
@@ -99,6 +36,19 @@ https://github.com/weiawesome/study_savvy_app </br>
 https://github.com/weiawesome/study_savvy_api_go </br>
 https://github.com/weiawesome/study_savvy_asyncwork_celery
 
+
+### Side Project - PixID 
+
+![](https://github.com/weiawesome/PixID/blob/main/assets/preview.png?raw=true)
+![](https://github.com/weiawesome/PixID/blob/main/assets/size.png?raw=true)
+![](https://github.com/weiawesome/PixID/blob/main/assets/resize_export.png?raw=true)
+
+
+Project Repository : </br>
+https://github.com/weiawesome/PixID </br>
+
+Website URL : https://weiawesome.github.io/PixID/
+
 ### Side Project - BlockChain Simulation Website 🔗🔗
 ![block_chain_simulation.png](assets/block_chain_simulation.png)
 
@@ -106,34 +56,3 @@ Project Repository : </br>
 https://github.com/weiawesome/block_chain_simulation </br>
 
 Website URL : https://block-chain-simulation.onrender.com
-
-### Side Project - Avec Moi With Us  🎞️🎞️
-![](assets/authentication_plus.png)
-![](assets/primary_feature_plus.png)
-
-[In Frontend](https://github.com/weiawesome/avec_moi_with_us_app) : User can find, get information and save the movies they like.</br>
-[In Backend](https://github.com/weiawesome/avec_moi_with_us_api) : It can reply the request from frontend
-
-Project Repository : </br>
-https://github.com/weiawesome/avec_moi_with_us_app </br>
-https://github.com/weiawesome/avec_moi_with_us_api </br>
-
-
-
-
-
-
-<!--
-**weiawesome/weiawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
